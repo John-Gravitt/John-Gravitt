@@ -1,6 +1,6 @@
 <h1>Hi, I'm John, an <a href="https://linkedin.com/in/Johnwgravitt">IT Professional
 
-👨‍💻 Information Technology Projects:
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/John-Gravitt/osticket-prereqs)
