@@ -1,4 +1,4 @@
-<h1>Hi, I'm John, an <"https://linkedin.com/in/johnwgravitt">IT Professional
+<h1>Hi, I'm John, an < href= "https://linkedin.com/in/johnwgravitt">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
