@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs (in-progress)](https://github.com/John-Gravitt/configure-ad)
+  - [DNS and Network File Sharing Using Active Directory within Azure VMs (in-progress)](https://github.com/John-Gravitt/DNS-Network-files)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/John-Gravitt/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation (in-progress)](https://github.com/John-Gravitt/osticket-prereqs)
