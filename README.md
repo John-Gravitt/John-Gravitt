@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/John-Gravitt/azure-network-protocols)
-  - [Configuring On-premises Active Directory within Azure VMs (part-1)](https://github.com/John-Gravitt/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/John-Gravitt/azure-network-protocols)
+   - [Configuring On-premises Active Directory within Azure VMs (part-1)](https://github.com/John-Gravitt/configure-ad)
   - [DNS and Network File Sharing Using Active Directory within Azure VMs (part-2)](https://github.com/John-Gravitt/DNS-Network-files)
   
 - <b>osTicket (Help Desk Ticketing System)</b>
